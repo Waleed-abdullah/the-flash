@@ -1,7 +1,7 @@
 {
   "name": "the-flash",
   "version": "0.0.0",
-  "description": "A HTTP client",
+  "description": "An HTTP client",
   "keywords": [
     "fetch",
     "get",
