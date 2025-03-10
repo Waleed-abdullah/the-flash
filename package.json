@@ -24,7 +24,11 @@
     "url": "git+https://github.com/Waleed-abdullah/the-flash.git"
   },
   "license": "MIT",
-  "author": "Waleed-Abdullah",
+  "author": {
+    "name": "Waleed-Abdullah",
+    "email": "w26waleed@gmail.com",
+    "url": "https://github.com/Waleed-abdullah"
+  },
   "type": "module",
   "main": "index.js",
   "scripts": {
