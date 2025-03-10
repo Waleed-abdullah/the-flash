@@ -1,0 +1,33 @@
+{
+  "name": "the-flash",
+  "version": "0.0.0",
+  "description": "A HTTP client",
+  "keywords": [
+    "fetch",
+    "get",
+    "wget",
+    "axios",
+    "api",
+    "http",
+    "api",
+    "node-fetch",
+    "request",
+    "network",
+    "rest"
+  ],
+  "homepage": "https://github.com/Waleed-abdullah/the-flash#readme",
+  "bugs": {
+    "url": "https://github.com/Waleed-abdullah/the-flash/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waleed-abdullah/the-flash.git"
+  },
+  "license": "MIT",
+  "author": "Waleed-Abdullah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
